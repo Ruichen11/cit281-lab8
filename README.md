@@ -1,4 +1,4 @@
-# Cit281-lab8
+# CIT281 Lab-8
 Purpose of this lab:
 - Experience with fastify starter code 
 - fastify and node-fetch require statements 
@@ -73,3 +73,6 @@ fastify.get("/fotos", (request, reply) => {
 
 ### What I learned: 
 - Learned how to fetcch data from fastify. 
+
+
+[SOurcecode](https://ruichen11.github.io/Ruichen11.CIT-Minor/)
